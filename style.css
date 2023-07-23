@@ -4,6 +4,7 @@
   width: 90%;
   max-width: 720px;
   display: flex;
+  z-index: 200;
   align-items: center;
   background: #000;
   color: #fff;
